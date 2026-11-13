@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+*.sqlite3
+runs/
+uploads/
+outputs/
+reports/
+*.mp4
+*.avi
+*.mov
+.vscode/
